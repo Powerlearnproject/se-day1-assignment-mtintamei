@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is a discipline involving the application of engineering principles to the development and maintenance of software applications. It encompasses the systematic study, design, implementation, and testing of software systems, aiming to produce high-quality, reliable, and efficient solutions.
 It is important in the technology industry because it:
 -Powers countless devices and applications that enhance our daily lives.
@@ -12,11 +13,13 @@ It is important in the technology industry because it:
 -Supports critical infrastructure, including energy, healthcare, and finance, ensuring their efficient and secure operation.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 a) Introduction of structured programming (1960s): Emphasized organized, modular code design.
 b) Development of object-oriented programming (1970s-1980s): Introduced concepts like encapsulation, inheritance, and polymorphism.
 c) Emergence of agile methodologies (1990s-2000s): Promoted iterative development, flexibility, and customer collaboration.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 Requirements Gathering: Define user needs and specifications.
 Design: Create a technical blueprint of the software system.
 Implementation: Develop the software code based on the design.
@@ -25,6 +28,7 @@ Deployment: Release the software to users.
 Maintenance: Update and troubleshoot the software throughout its lifespan.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall:
 Sequential, linear approach
 Each phase must be completed before moving to the next
@@ -38,15 +42,18 @@ Suitable for projects with evolving requirements or uncertain scope
 Possible scenario: Developing a mobile app for a startup with evolving user needs
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software Developer: Designs, develops, and maintains software code.
 Quality Assurance Engineer: Tests the software, identifies defects, and ensures quality standards are met.
 Project Manager: Plans, executes, and monitors the software development process, ensuring timely delivery and stakeholder satisfaction.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 IDEs (Integrated Development Environments): Provide tools for coding, debugging, and managing software projects, streamlining development. Examples: Eclipse, IntelliJ IDEA.
 VCS (Version Control Systems): Track changes to code and allow collaboration among developers. Examples: Git, Subversion.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 Meeting Deadlines: Pressure to complete projects on time while ensuring quality.
 Managing Complexity: Dealing with large and complex software systems.
 Evolving Requirements: Adapting to changing user needs and business priorities.
@@ -57,6 +64,7 @@ Agile Development: Iterative, incremental approach that allows for flexibility a
 Collaboration and Knowledge Sharing: Fostering communication and sharing knowledge among team members.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 Unit Testing: Testing individual software components (methods, classes).
 Integration Testing: Testing how components interact and function together.
 System Testing: Testing the entire software system as a whole.
@@ -68,6 +76,7 @@ These testing types help identify bugs at different levels, ensure system functi
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 Prompt engineering is the art of crafting effective prompts that guide AI models to generate desired outputs. It involves understanding the model's capabilities, the desired outcome, and the context in which the prompt is used.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
