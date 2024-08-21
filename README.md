@@ -6,7 +6,8 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-Software engineering is a discipline involving the application of engineering principles to the development and maintenance of software applications. It encompasses the systematic study, design, implementation, and testing of software systems, aiming to produce high-quality, reliable, and efficient solutions.
+
+Software engineering is a discipline involving the application of engineering principles to the process of designing, developing, and maintaining software. It encompasses the systematic study, design, implementation, and testing of software systems, aiming to produce high-quality, reliable, and efficient solutions.
 It is important in the technology industry because it:
 -Powers countless devices and applications that enhance our daily lives.
 -Drives innovation and transformative technologies such as artificial intelligence and machine learning.
